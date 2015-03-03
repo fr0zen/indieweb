@@ -1,0 +1,114 @@
+	     THE HACKER PAPERS (PSYCHOLOGY TODAY AUG. '80)
+		  DRAWN FROM THE STANFORD UNIVERSITY
+		LOW OVERHEAD TIME-SHARING SYSTEM(LOTS)
+
+
+FROM: G. GANDALF (Kenneth Peter)
+TO: BULLETIN BOARD
+SUBJECT:ESSAY ON HACKING
+
+
+  Dedicated to all my friends at LOTS who will live their lives in a alien
+culture surrounded by humanity, and to Ernest, who was too human for it.
+
+  As much as an essay, this is a story.  It is a true story of people paying
+$9,000 a year to lose elements of their humanity.  It is a story of the breaking
+of wills and of people.  It is a story of addictions, and of misplaced values.
+In a large part, it is my own story.
+
+  There is no one field in particular in academia that has a monopoly on
+production of single-interest people, and this practice can exist almost
+anywhere.  There is the political power seeker, all-consumed by climbing up the
+bureaucratic rungs.  There is the stereotyped pre-med, ignoring all but his MCAT
+scores.  There is the compulsive artist or writer, forever lost in his work.
+Narrowness is widespread.  But there is one field that seems to be more
+consistent in this practice.  This essay, rooted in personal and painful
+experience, is about the people in computer science.
+
+  In the middle of Stanford University there is a large concrete- and-glass
+building filled with computer terminals.  When one enters this building through
+the glass doors, one steps into a different culture.  Fifty people stare at
+terminal screens.  Fifty faces connected to 50 bodies, connected to 50 sets of
+fingers that pound on 50 keyboards ultimately linked to a computer.  If you go
+further inside, you can discover the true addicts:  the members of the
+Establishment.	These are the people who spend their lives with computers and
+fellow "hackers".  These are the members of a subculture so foreign to most
+outsiders that it not only walls itself off but is walled off, in turn, by those
+who cannot understand it.  The wall is built from both sides at once.
+
+  These people deserve a description.  In very few ways do they seem average.
+First, they are all bright, so bright, in fact, that they experienced social
+problems even before they became interested in computers.  Second, they are
+self-contained.  Their entire social existence usually centers around one
+another.  Very, very few remain close to their families.  Very, very few
+associate much with anyone who is not at least partially a member of the hacking
+group.	While they do sometimes enjoy entertainment unrelated to their field, it
+is almost always with fellow hackers.  Third, all aspects of their existence
+reinforce one another.	They go to school in order to learn about computers,
+they work at jobs in programming and computer maintenance, and they lead their
+social lives with hackers.  Academically, socially, and in the world of cash,
+computers are the focus of their existence.
+
+  The hacker will probably not strongly disagree with what has been said so far.
+But he will ask the question, "So what?" The answer is:  in creating a
+subculture and isolating it, we are destroying the chance that computers might
+be used wisely as an integral part of our society.  We are precluding the human
+values so necessary for the wise application of this technological achievement.
+The most brilliant young minds at our top universities are learning how to play
+with multi-million dollar toys first, and how to utilize them constructively
+second.
+
+  Even if we ignore the costs to society as a whole, we have to look at the
+costs to the people involved.  The computer is a modifier of personalities.  It
+is highly addictive.  People who gain this addiction for a period of several
+months tend never to give it up.  And the symptoms are very sad.
+
+  The first thing to go is other academic interests.  Basically what occurs is
+that the hackers motivation to challenge themselves in any field not directly
+linked to computers gradually disint- egrates.	On the level of grades,
+straight-A students tacitly accept C's in noncomputer courses.  On the level of
+actual learning, the same students shut off outside subjects even more
+completely than their grades would indicate.  This is common in many areas of
+specialization, but nothing compares with the incredible consumption of computer
+science students for computer science courses, and their non-chalant attitude
+toward every other class.
+
+  The second thing to go is a normal living pattern.  Eating and sleeping are
+completly rearranged to fit the addiction.  The typical hacker thinks nothing of
+eating one meal a day and subsisting on junk food, or of sleeping from 4 a.m.
+to noon almost every day of the week.  Families are soon disregarded, to an
+extent uncommon even when one considers the separtion that generally occurs in
+college.  It is simply that the parents of hackers are ignorant of the
+subculture and cannot relate.
+
+  The third thing to go is a balanced social life.  The hackers' narrowness and
+strange schedule simply compound the social problems they experienced before
+hackerdom.  Soon, no one except a hacker has the capability to understand other
+hackers.  No one except a hacker will go out with other hackers.  No one except
+a hacker can talk to another hacker.
+
+  The forth and final thing that happens is also the saddest.  The personality
+of the hacker shifts, in order to permanently adjust to the new social
+conditions.  Emotions always hurt before so they are effectively isolated.
+Relations with nonhackers become strained, so why force the effort?  It is so
+much easier just to accept social rejection and isolation, and to do it with a
+spirit of camraderie that's shared by the rest of the subculture.
+
+  An essay should make an attempt to resolve the problem it points out.  In this
+case, the pointing may be enough, or at least enough to do whatever can be done.
+I know from personal experience what a trauma it can be.  I was one of the top
+10 among several thousand LOTS users last spring for the amount of time I spent
+here.  I have watched people close to me undergo the transformation.  I narrowly
+escaped it.
+
+  The tragedy is that I am so involved in piecing my personality and social life
+back together that I think I have learned very little about how to prevent this
+from happening in the first place.  I am lucky.  I will go on to some sort of a
+balanced life (although my hacker friends will laugh at me, since, to them, my
+involvment was never serious enough to make me one of them).  Weak-willed
+people, people with unstable social lives, people in formative stages of their
+lives, should not become involved in computer science.	It should be left until
+they are truly able to make decisions and be aware of all the consequences.
+Computers are most often used by people who start when they are immature.  This
+is what causes the single-minded addiction.  This is what takes some of the
+brightest and most capable minds in college today and turns them to narrowness.
